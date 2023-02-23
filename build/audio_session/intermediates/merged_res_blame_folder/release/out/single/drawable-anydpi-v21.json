@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\media_session_service_notification_ic_skip_to_next.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\058801aa951039b51fa5f4f51480fa50\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-anydpi-v21\\media_session_service_notification_ic_skip_to_next.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\media_session_service_notification_ic_pause.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\058801aa951039b51fa5f4f51480fa50\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-anydpi-v21\\media_session_service_notification_ic_pause.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\media_session_service_notification_ic_skip_to_previous.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\058801aa951039b51fa5f4f51480fa50\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-anydpi-v21\\media_session_service_notification_ic_skip_to_previous.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\media_session_service_notification_ic_play.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\058801aa951039b51fa5f4f51480fa50\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-anydpi-v21\\media_session_service_notification_ic_play.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\media_session_service_notification_ic_music_note.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\058801aa951039b51fa5f4f51480fa50\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-anydpi-v21\\media_session_service_notification_ic_music_note.xml"
+    }
+]

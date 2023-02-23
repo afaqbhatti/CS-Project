@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\flutter-projects\\connect_social_app\\build\\image_picker_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bg\\values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0503935de6648ae70570b20b942b1f1d\\transformed\\core-1.8.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\flutter-projects\\connect_social_app\\build\\image_picker_android\\intermediates\\merged_res\\release\\values-bg\\values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0503935de6648ae70570b20b942b1f1d\\transformed\\core-1.8.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

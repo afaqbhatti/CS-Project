@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\just_audio\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0911724fb94e372c158f95dab323fe17\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\just_audio\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0911724fb94e372c158f95dab323fe17\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\just_audio\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0911724fb94e372c158f95dab323fe17\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\flutter-projects\\connect_social_app\\build\\just_audio\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Napollo Group\\.gradle\\caches\\transforms-3\\0911724fb94e372c158f95dab323fe17\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
